@@ -1,11 +1,9 @@
 # Works
 A collection of conference papers, presentations and posters from the BD2K Open Educational Resources project and Skill Courses.
 
-## Papers
-- Pederson, B., Vasilevsky, N., Hersh, W., McWeeney, S., Haendel, M. & Wirz, J. (2016). **Big Data to Knowledge Open Educational Resources: Development and Dissemination Considerations.** In Proceedings of EdMedia: World Conference on Educational Media and Technology 2016 (pp. 1729-1733). Association for the Advancement of Computing in Education (AACE).
-
 ## Presentations:
 - Nicole Vasilevsky, Jackie Wirz, Bjorn Pederson, Ted Laderas, Shannon McWeeney, William Hersh, David Dorr, and Melissa Haendel. 2016. **[Data science education resources for everyone.](http://www.slideshare.net/NicoleVasilevsky/data-science-education-resources-for-everyone )** Medical Library Association Pacific Northwest Chapter meeting in Portland, OR, October 18, 2016. 
+- Pederson, B., Vasilevsky, N., Hersh, W., McWeeney, S., Haendel, M. & Wirz, J. (2016). **[Big Data to Knowledge Open Educational Resources: Development and Dissemination Considerations.](https://www.learntechlib.org/results/?q=vasilevsky&source=EDMEDIA%2F2016%2F1)** In Proceedings of EdMedia: World Conference on Educational Media and Technology 2016 (pp. 1729-1733). Association for the Advancement of Computing in Education (AACE).
 
 ## Posters:
 - Nicole Vasilevsky, Ted Laderas , Jackie Wirz , Bjorn Pederson , David Dorr , William Hersh , Shannon McWeeney , Melissa Haendel. **[Training Future Biocurators Through Data Science Trainings and Open Educational Resources.](https://f1000research.com/posters/6-271)** Poster presentation at Biocuration 2017, Palo Alto, CA, March 2017. [version 1; not peer reviewed]. F1000Research 2017, 6:271 (poster) Doi: 10.7490/f1000research.1113751.1. 
