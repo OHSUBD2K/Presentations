@@ -1,2 +1,20 @@
-# Presentations
-A collection of files from presentations and posters from the BD2K Open Educational Resources project and Skill Courses.
+# Works
+A collection of conference papers, presentations and posters from the BD2K Open Educational Resources project and Skill Courses.
+
+## Papers
+- Pederson, B., Vasilevsky, N., Hersh, W., McWeeney, S., Haendel, M. & Wirz, J. (2016). Big Data to Knowledge Open Educational Resources: Development and Dissemination Considerations. In Proceedings of EdMedia: World Conference on Educational Media and Technology 2016 (pp. 1729-1733). Association for the Advancement of Computing in Education (AACE).
+
+## Presentations:
+- Nicole Vasilevsky, Jackie Wirz, Bjorn Pederson, Ted Laderas, Shannon McWeeney, William Hersh, David Dorr, and Melissa Haendel. 2016. [Data science education resources for everyone.](http://www.slideshare.net/NicoleVasilevsky/data-science-education-resources-for-everyone ) Medical Library Association Pacific Northwest Chapter meeting in Portland, OR, October 18, 2016. 
+
+## Posters:
+- Nicole Vasilevsky, Ted Laderas , Jackie Wirz , Bjorn Pederson , David Dorr , William Hersh , Shannon McWeeney , Melissa Haendel. [Training Future Biocurators Through Data Science Trainings and Open Educational Resources.](https://f1000research.com/posters/6-271) Poster presentation at Biocuration 2017, Palo Alto, CA, March 2017. [version 1; not peer reviewed]. F1000Research 2017, 6:271 (poster) Doi: 10.7490/f1000research.1113751.1. 
+- Ted Laderas, Melissa Haendel, Nicole Vasilevsky, Bjorn Pederson, Jackie Wirz, William Hersh, David A. Dorr, Shannon McWeeney. [Getting your hands dirty with data.](https://figshare.com/articles/Getting_Your_Hands_Dirty_With_Data/4235594/1) Poster presentation at BD2K All Hands Meeting, Bethesda, MD, November 2016. https://dx.doi.org/10.6084/m9.figshare.4235594.v1
+- Nicole Vasilevsky, Bjorn Pederson, Jackie Wirz, Shannon McWeeney, Melissa Haendel, William Hersh. [Data Science Educational Resources for Anyone, Anywhere](https://dx.doi.org/10.6084/m9.figshare.4235555.v1). Poster presentation at BD2K All Hands Meeting, Bethesda, MD, November 2016. https://dx.doi.org/10.6084/m9.figshare.4235555.v1
+- Ted Laderas, Nicole Vasilevsky, Melissa Haendel, Shannon McWeeney, David Dorr. Get real: A synthetic dataset illustrating clinical and genetic covariates. Poster presentation at BD2K All Hands Meeting, Bethesda, MD, November 2016.
+- Nicole Vasilevsky, Shannon McWeeney, William Hersh, David A. Dorr, Ted Laderas, Jackie Wirz, Bjorn Pederson, Melissa Haendel. [Improving Knowledge Discovery Through Development of  Big Data to Knowledge Skills Courses and Open Educational Resources.](http://www.slideshare.net/NicoleVasilevsky/improving-knowledge-discovery-through-development-of-big-data-to-knowledge-skills-courses-and-open-educational-resources ) Poster presentation at OHSU BICC 25 year anniversary celebration. Portland, OR, October 28, 2016. 
+- William Hersh, David A. Dorr, Melissa Haendel, Nicole Vasilevsky, Bjorn Pederson, Jackie Wirz, Shannon McWeeney. Couture Curricula - BD2K Data Science Tailored to Your Needs. Force2016 conference, Portland, OR, April 2016. FigShare, https://dx.doi.org/10.6084/m9.figshare.3159493.v1 
+- William Hersh, Shannon McWeeny, Melissa Haendel, Nicole Vasilevsky, Bjorn Pederson. Open Educational Resources for Big Data Science. Poster presentation at Big Data to Knowledge (BD2K) All Hands Meeting, Bethesda, MD. November 12-13, 2015. http://www.slideshare.net/billhersh/open-educational-resources-for-big-data-science 
+- David Dorr, Melissa Haendel, Nicole Vasilevsky, Bjorn Pederson, Jackie Wirz, William Hersh, Shannon McWeeny. Improving Knowledge Discovery Through Development of Big Data to Knowledge Skills Course. Poster presentation at Big Data to Knowledge (BD2K) All Hands Meeting, Bethesda, MD. November 12-13, 2015.
+- Melissa Haendel, David A. Dorr, William Hersh, Nicole Vasilevsky, Shannon McWeeney. Improving Knowledge Discovery Through Development of a Big Data to Knowledge Skills Course. OHSU Research Week, Portland, OR, May 2015.
+- William Hersh, Shannon McWeeney, Melissa Haendel, Nicole Vasilevsky. Open Educational Resources for Big Data Science. Improving Knowledge Discovery Through Development of a Big Data to Knowledge Skills Course. OHSU Research Week, Portland, OR, May 2015.
