@@ -2,7 +2,7 @@
 A collection of past presentations and posters from the BD2K Open Educational Resources project and Skill Courses.
 
 ## Presentations:
-- Nicole Vasilevsky, Jackie Wirz, Bjorn Pederson, Ted Laderas, Shannon McWeeney, William Hersh, David Dorr, and Melissa Haendel. 2016. **[Data science education resources for everyone.](http://www.slideshare.net/NicoleVasilevsky/data-science-education-resources-for-everyone )** Medical Library Association Pacific Northwest Chapter meeting in Portland, OR, October 18, 2016. 
+- Nicole Vasilevsky, Jackie Wirz, Bjorn Pederson, Ted Laderas, Shannon McWeeney, William Hersh, David Dorr, and Melissa Haendel. 2016. **[Data science education resources for everyone.](https://figshare.com/articles/Data_science_education_resources_for_everyone/4891850)** Medical Library Association Pacific Northwest Chapter meeting in Portland, OR, October 18, 2016. 
 - Pederson, B., Vasilevsky, N., Hersh, W., McWeeney, S., Haendel, M. & Wirz, J. (2016). **[Big Data to Knowledge Open Educational Resources: Development and Dissemination Considerations.](https://doi.org/10.6084/m9.figshare.4876808.v1)** In Proceedings of EdMedia: World Conference on Educational Media and Technology 2016 (pp. 1729-1733). Association for the Advancement of Computing in Education (AACE).
 
 ## Posters:
