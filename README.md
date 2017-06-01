@@ -2,6 +2,7 @@
 A collection of past presentations and posters from the BD2K Open Educational Resources project and Skill Courses.
 
 ## Presentations:
+- Nicole Vasilevsky (2017): **[Data Science Resources for Anyone, Anywhere: Development of Skills Courses and Open Educational Resources](https://figshare.com/articles/Data_Science_Resources_for_Anyone_Anywhere_Development_of_Skills_Courses_and_Open_Educational_Resources/5056921)** Medical Library Association Conference, Seattle, WA, May 30, 2017. figshare: https://doi.org/10.6084/m9.figshare.5056921.v1
 - Vasilevsky, Nicole (2017): **[Data Science Resources for Anyone, Anywhere.](https://figshare.com/articles/Data_Science_Resources_for_Anyone_Anywhere/4892030)** NN/LM Pacific Northwest Region webinar. April 19, 2017. figshare:
 https://doi.org/10.6084/m9.figshare.4892030.v1
 - Nicole Vasilevsky, Jackie Wirz, Bjorn Pederson, Ted Laderas, Shannon McWeeney, William Hersh, David Dorr, and Melissa Haendel. 2016. **[Data science education resources for everyone.](https://figshare.com/articles/Data_science_education_resources_for_everyone/4891850)** Medical Library Association Pacific Northwest Chapter meeting in Portland, OR, October 18, 2016. 
